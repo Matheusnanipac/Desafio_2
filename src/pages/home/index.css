@@ -1,0 +1,14 @@
+.Welcome {
+    text-align: center;
+    margin-top: 50px;
+}
+
+footer {
+    background-color: var(--cor-primaria);
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
